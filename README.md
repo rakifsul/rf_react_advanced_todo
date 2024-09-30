@@ -1,8 +1,6 @@
 # rf_react_advanced_todo - Todo App Written In Node JS and React
 
-Here is the translation to English:
-
----
+[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_react_advanced_todo/blob/main/README_id.md)
 
 ## What is This Software?
 
